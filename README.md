@@ -30,6 +30,8 @@ To run this script, you'll need to create a GitHub Personal Access Token with ap
 4. **Copy the Token**: Make sure to copy the token as you won’t be able to see it again.
 
 ## Usage
+![image](https://github.com/user-attachments/assets/1200b449-71c5-4687-a3a7-000ad10a0abe)
+
 
 ### Running the Script Locally
 
