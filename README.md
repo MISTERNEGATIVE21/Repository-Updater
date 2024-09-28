@@ -15,6 +15,7 @@ This Python script updates all forked GitHub repositories by merging upstream ch
    ```bash
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
-   ```python
+   
    pip install requests
+   
    python main.py <github_token> <github_username>
