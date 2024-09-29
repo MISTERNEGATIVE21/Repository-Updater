@@ -28,7 +28,7 @@ To run this script, you'll need to create a GitHub Personal Access Token with ap
    - Click **Generate token**.
 
 4. **Copy the Token**: Make sure to copy the token as you won’t be able to see it again.
-5.  **Navigate to Github Actions** On the left window see a Script click there and input your credentials and hit run.
+5.  **Navigate to Github Actions** On the left window see a Script click there and input your credentials and hit run workflow.
 
 ## Usage
 ![image](https://github.com/user-attachments/assets/1200b449-71c5-4687-a3a7-000ad10a0abe)
