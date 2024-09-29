@@ -1,4 +1,4 @@
-# Update Forks Script
+# Github Repository Updater
 
 This Python script updates all forked GitHub repositories by merging upstream changes.
 
